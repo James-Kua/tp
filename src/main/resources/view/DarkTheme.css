@@ -125,6 +125,11 @@
     -fx-border-width: 0;
 }
 
+.list-cell:empty {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+}
+
 /* font colour of cells */
 .list-cell .label {
     -fx-text-fill: white;
