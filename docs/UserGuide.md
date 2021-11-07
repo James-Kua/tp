@@ -135,8 +135,6 @@ Some example commands you can try:
 
    * `deletec 2` : Deletes the 2nd lesson shown in the current lesson list
 
-   * `clear` : Deletes all contacts
-
    * `exit` : Exits the app
 
 Some additional notes: 
