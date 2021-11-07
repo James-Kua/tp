@@ -129,7 +129,7 @@ Some example commands you can try:
 
    * `add n/Ben p/91234567 e/ben123@gmail.com m/CS2103T` : Adds a contact named `Ben`
 
-   * `addc m/CS2103T G09 d/4 t/09:00 10:00` Adds a class with CS2103T module code and G09 lesson code, that falls on a Thursday from 9am - 10am
+   * `addc m/CS2103T G09 d/4 t/09:00 10:00` : Adds a class with CS2103T module code and G09 lesson code, that falls on a Thursday from 9am - 10am
 
    * `delete 3` : Deletes the 3rd contact shown in the current contact list
 
